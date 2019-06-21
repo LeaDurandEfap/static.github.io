@@ -1,3 +1,218 @@
-h1 {
-  color: red;
+body {
+	background: #fdb155 !important;
+	text-align: center;
+	margin: 0;
+
 }
+
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	background: white;
+	position: fixed;
+	width: 100%;
+
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 30px 0;
+  background: #fdb155;
+}
+
+.logo {
+	width: 70px;
+	height: 70px;
+}
+
+.mot {
+	display: flex;
+	background: white;
+	width: 50%;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.bouton:hover {
+	color: black;
+}
+
+.bouton {
+	text-decoration: none;
+	color: #fdb155; 
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px; 
+
+}
+
+.blanc {
+	width: 400px;
+	height: 400px;
+}
+
+.idk {
+	background: white;
+}
+
+h1 { 
+	color: #fdb155;
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+	background: white;
+ }
+
+.prez {
+	display: flex;
+	background: white;
+	width: 90%;
+	justify-content: space-around;
+	border: 10px solid white;
+	margin: 10px 100px 10px 50px;
+}
+
+.kenza {
+	width: 300px;
+	height: 410px; 
+	border: 5px solid black;
+}
+
+.prez-desc {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	border: 5px solid black;
+	background: white; 
+	width: 330px;
+	height: 410px;
+}
+
+.camera {
+	font-size: 50px;
+	color: #fdb155;
+}
+
+.titre {
+	font-family: 'Acme', sans-serif;
+	font-size: 30px;
+	color: #fdb155;
+}
+
+.prez-text {
+	margin: 10px;
+	font-family: 'Acme', sans-serif;
+	color: black;
+}
+
+.shoot {
+	background: #fdb155; 
+}
+
+h2 {
+	color: white;
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+}
+
+.foto {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.insta {
+	width: 300px;
+	height: 300px;
+}
+
+
+.lol {
+	background: white;
+}
+
+
+h3 {
+	color: #fdb155;
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+	background: white;
+}
+
+.mdr {
+	display: flex;
+	justify-content: space-around;
+	margin: 15px 100px 15px 100px;	
+}
+
+.picto {
+	font-size: 30px;
+	color: #fdb155;
+	margin: 10px 10px 0px 10px;
+}
+
+.picto:hover {
+	color: black;
+}
+
+h1 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+}
+
+.trk {
+	display: flex;
+	justify-content: space-between;
+	background: white;
+	align-items: center;
+}
+
+p {
+	font-family: 'Acme', sans-serif;
+	color: #fdb155;
+	margin: 0px 100px 0px 100px;
+	display: flex;
+	align-content: center;
+}
+
+.pics {
+	font-family: 'Acme', sans-serif;
+	color: white;
+	text-decoration: none;
+}
+
+.pics:hover {
+	color: black; 
+}
+
+.color-green {
+	text-align: center;
+	font-size: 50px !important;
+}
+
+footer {
+	width: 100%;
+	height: 100px;
+	background: white;
+}
+.survey {
+	padding: 50px 200px 50px 200px;
+}
+
+.chaise {
+	font-family: 'Acme', sans-serif;
+}
+
+.indicates-required {
+	font-family: 'Acme', sans-serif;
+}
+
+body {
+  background-color: #292b2c;
+}
+
+.carousel {
+	width: 500px;
+	height: 600px;
+	margin: 100px 100px 100px 390px;
+}
+
